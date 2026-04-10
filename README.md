@@ -1,4 +1,4 @@
-👋🚀—🛠️—🎓—–—–——📜📊—## Hi there 👋
+Hi there, my name is Akshat Vashishtha and I am a freshman at Wake Technical Community College, with plans on transferring to a 4 year college preferrably NC State University. I am an AI/Cybersecurity enthusiast and love working on projects in my freetime.
 
 <!--
 **CodeMachine16/CodeMachine16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
